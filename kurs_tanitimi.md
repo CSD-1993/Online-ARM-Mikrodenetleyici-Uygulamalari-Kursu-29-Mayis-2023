@@ -18,5 +18,5 @@ Kursumuzun toplam ücreti KDV dahil 9,360 TL’dir (Peşin ödemede 8,450 TL’d
 
 ## Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt](   https://zoom.us/meeting/register/tJEpc-ivrzgjGNJc0sbzHczk1EVkTCtB2Q_c)
+[Kursa Kayıt]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr )
 
