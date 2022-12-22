@@ -1,10 +1,10 @@
 # Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-10-Nisan-2023
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kursumuz `23 Mayıs 2022` tarihinde başlayacaktır.
++ Kursumuz `10 Nisan 2023` tarihinde başlayacaktır.
 + Kursumuzun eğitmeni `Gürbüz Aslan`'dır.
 + Kursumuz gerçek zamanlıdır.
-+ Toplam kurs süresi `100` saattir. Dersler `Pazartesi, Çarşamba ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
++ Toplam kurs süresi `180` saattir. Dersler `Pazartesi, Çarşamba ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil `4.200 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil `3.700` TL dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
