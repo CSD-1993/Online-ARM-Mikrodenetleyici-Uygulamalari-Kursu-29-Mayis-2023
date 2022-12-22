@@ -5,7 +5,7 @@ Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişikli
 Ön Koşul: C programlama dilinin yeterli düzeyde bilinmesi, temel düzeyde elektronik bilgisi.
 
 ## Eğitim Süresi
-Eğitim Süresi __100__ Saattir.
+Eğitim Süresi __180__ Saattir.
 
 ## Ders Saatleri
 Dersler __Pazartesi-Çarşamba__ günleri saat __19:30-22:30__ saatleri arasında __3__ ’er saat olarak __(haftada 6 saat)__ yapılacaktır.
@@ -14,8 +14,7 @@ Dersler __Pazartesi-Çarşamba__ günleri saat __19:30-22:30__ saatleri arasınd
 Kurs ____Gürbüz ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursun toplam ücreti KDV dahil __4.200 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3700 TL__'dir. Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
-
+Kursumuzun toplam ücreti KDV dahil 9,360 TL’dir (Peşin ödemede 8,450 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 8.450 TL’dir (peşin ödemede 7.650 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
