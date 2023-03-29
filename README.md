@@ -1,7 +1,7 @@
-# Online ARM Mikrodenetleyici Uygulamaları Kursu - 10 Nisan 2023
+# Online ARM Mikrodenetleyici Uygulamaları Kursu - 29 Mayıs 2023
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kursumuz `10 Nisan 2023` tarihinde başlayacaktır.
++ Kursumuz `29 Mayıs 2023` tarihinde başlayacaktır.
 + Kursumuzun eğitmeni `Gürbüz Aslan`'dır.
 + Kursumuz gerçek zamanlıdır.
 + Toplam kurs süresi `180` saattir. Dersler `Pazartesi, Çarşamba ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
