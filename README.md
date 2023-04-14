@@ -12,3 +12,4 @@
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-10-Nisan-2023/blob/main/sss.md)
 + [Malzeme Listesi](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-10-Nisan-2023/blob/main/malzemelistesi.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
+   
