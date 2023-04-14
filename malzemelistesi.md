@@ -83,6 +83,7 @@ DİĞER
 Mikro USB kablosu
 Büyüteç
 
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
 
 
 
