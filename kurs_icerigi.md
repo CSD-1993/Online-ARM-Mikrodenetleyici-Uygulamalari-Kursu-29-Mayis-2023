@@ -41,12 +41,12 @@ DMA kullanımı
 MODBUS haberleşmesi
 
 
-
 NOTLAR:
 
 Listede yer alan ders konuları içinde bazı değişiklikler (ekleme ve çıkarmalar) yapılabilir. Listedeki konular işleme sırasını göstermemektedir. 
 
 Ön koşul: C programlama dilinin yeterli düzeyde bilinmesi, temel düzeyde elektronik bilgisi.
 
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
 
 
