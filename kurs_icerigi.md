@@ -49,5 +49,3 @@ Listede yer alan ders konuları içinde bazı değişiklikler (ekleme ve çıkar
 
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
 
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
-
