@@ -17,6 +17,6 @@ Kurs ____Gürbüz ASLAN__ tarafından verilmektedir.
 Kursumuzun toplam ücreti KDV dahil 9,360 TL’dir (Peşin ödemede 8,450 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 8.450 TL’dir (peşin ödemede 7.650 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursa Kayıt
-Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr )
+
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
 
